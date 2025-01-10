@@ -56,11 +56,18 @@ img {
   transition: all 0.3s ease;
 }
 
-.btn-orange {
-  background:#ffa32d;
-  color:#fff;
-  box-shadow:0 14px 0 #e66000;;
-}
-.btn-orange:active {
-  box-shadow:0 4px 0 #e66000;;
+.btn-orange {background:#ffa32d; color:#fff; box-shadow:0 14px 0 #e66000;}
+.btn-orange:active {box-shadow:0 4px 0 #e66000;}
+
+.btn-grey {background:#f2f4f6; box-shadow:0 14px 0 #dfe1e2; color:#444;}
+.btn-grey:active {box-shadow:0 4px 0 #dfe1e2;}
+
+.btn-green {background:#32bfa1; box-shadow:0 14px 0 #299a82; color:#fff;}
+.btn-green:active {box-shadow:0 4px 0 #299a82;}
+
+.btn-small{
+  max-width:350px;
+  height:70px;
+  font-size:26px;
+  margin-bottom:30px;
 }
