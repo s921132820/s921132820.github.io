@@ -2,6 +2,13 @@
 
 body{
   font-family: "Pretendard Variable", sans-serif;
+  word-break: keep-all;
+  padding-top:80px;
+  padding-bottom:80x;
+}
+
+img {
+  display:block;
 }
 
 .page-title {
