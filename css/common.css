@@ -59,7 +59,7 @@ img {
 .btn-orange {background:#ffa32d; color:#fff; box-shadow:0 14px 0 #e66000;}
 .btn-orange:active {box-shadow:0 4px 0 #e66000;}
 
-.btn-grey {background:#f2f4f6; box-shadow:0 14px 0 #dfe1e2; color:#444;}
+.btn-grey {background:#f2f4f6; box-shadow:0 14px 0 #dfe1e2; color:#444; line-height:1.5;}
 .btn-grey:active {box-shadow:0 4px 0 #dfe1e2;}
 
 .btn-green {background:#32bfa1; box-shadow:0 14px 0 #299a82; color:#fff;}
