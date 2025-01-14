@@ -71,3 +71,16 @@ img {
   font-size:26px;
   margin-bottom:30px;
 }
+
+
+/* lecture.html */
+.lecture-container {
+  max-width: 600px;
+  text-align:center;
+  margin: 0 auto;
+}
+
+.lecture-container h2 {
+  font-size:45px;
+  margin-bottom:5px;
+}
