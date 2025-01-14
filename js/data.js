@@ -92,7 +92,7 @@ export const results = [
     ],
     jobs: ['프리랜서', '창업가'],
     lectureImg: '/images/result_lecture1.png',
-    lectureUrl: 'http://localhost:5500/lecture.html'
+    lectureUrl: './lecture.html'
   },
   {
     title: '프로직진러!<br>진행력 갑',
@@ -105,7 +105,7 @@ export const results = [
     ],
     jobs: ['마케터', '기획자'],
     lectureImg: '/images/result_lecture2.png',
-    lectureUrl: 'http://localhost:5500/lecture.html'
+    lectureUrl: './lecture.html'
   },
   {
     title: '우리 무기는<br>상상력!',
@@ -118,7 +118,7 @@ export const results = [
     ],
     jobs: ['디자이너', '예술가'],
     lectureImg: '/images/result_lecture3.png',
-    lectureUrl: 'http://localhost:5500/lecture.html'
+    lectureUrl: './lecture.html'
   },
   {
     title: '인생은<br>한방!',
@@ -131,7 +131,7 @@ export const results = [
     ],
     jobs: ['부동산<br>투자자', '주식<br>투자자'],
     lectureImg: '/images/result_lecture4.png',
-    lectureUrl: 'http://localhost:5500/lecture.html'
+    lectureUrl: './lecture.html'
   },
   {
     title: '한 번 집중하면<br>멈출 수 없지!',
@@ -144,7 +144,7 @@ export const results = [
     ],
     jobs: ['개발자', '데이터분석가'],
     lectureImg: '/images/result_lecture5.png',
-    lectureUrl: 'http://localhost:5500/lecture.html'
+    lectureUrl: './lecture.html'
   },
   {
     title: '인생 욜로지~<br>일단 놀자 ><',
@@ -157,7 +157,7 @@ export const results = [
     ],
     jobs: ['돈 많은 백수', '유튜버'],
     lectureImg: '/images/result_lecture6.png',
-    lectureUrl: 'http://localhost:5500/lecture.html'
+    lectureUrl: './lecture.html'
   }
 ]
 export const mbtis = {
