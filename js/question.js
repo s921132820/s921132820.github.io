@@ -58,7 +58,7 @@ function nextQuestion(choice) {
     renderQuestion();
   } else {
     // mbti 검사 결과를 보여줄 페이지로 이동
-    window.location.href = '../results.html?str=' + mbti + '&name=장원영';
+    window.location.href = '../results.html?str=' + mbti;
     return;
   }
 }
